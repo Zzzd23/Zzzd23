@@ -5,7 +5,6 @@ Systemingenieur und Telekommunikationsingenieur aus [Universidad Católica De Pe
 
 Wettbewerbsprogrammierer: ICPC Colombia National Programming Contest 2024 / 2025, [5th UTP Open 2025](https://www.ucp.edu.co/semillero-coders-obtiene-quinto-puesto-en-utp-open-2025/).
 
-Blog : [Blog](https://zokzzz.github.io/).
 
 
 ## 🖥️ Socials
