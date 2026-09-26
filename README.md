@@ -10,12 +10,8 @@ Wettbewerbsprogrammierer: ICPC Colombia National Programming Contest 2024 / 2025
 ## 🖥️ Socials
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-salazar-salazar-1012b7355/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zokZzz)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dZzz__23)
 [![Badge](https://cp-logo.vercel.app/codeforces/Zokzz)](https://codeforces.com/profile/Zokzz)
-
-
-
-<img width="500" height="350" alt="- Find   Share on GIPHY" src="https://github.com/user-attachments/assets/625c6c3a-f8c6-431e-801e-635497dbc513" />
 
 
 
